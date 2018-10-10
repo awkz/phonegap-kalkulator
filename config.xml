@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "net.dapurstudio.helloworld" 
+    versionCode = "10"
+    version     = "1.0.0" >
+
+  <!-- versionCode is optional and Android only -->
+
+  <name>Hello World App</name>
+
+  <description>
+      Ini merupakan contoh aplikasi Hello World.
+  </description>
+
+  <author href="https://dapurstudio.net" email="mail@dapurstudio.net">
+      Bara Ramadhan Asdisusilo
+  </author>
+
+</widget>
